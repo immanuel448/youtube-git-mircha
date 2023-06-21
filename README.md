@@ -4,8 +4,8 @@ Hola soy tu amigo y docente digital Jonathan MirCha, bienvenid@s a mi curso.
 
 ¿Quieres dominar el uso de _git_?
 
-Mira este [enlace](https://jonmircha.com/git).
+    Mira este [enlace](https://jonmircha.com/git).
 
-![Flujo de Git](morti.jpg)
+    ![Flujo de Git](morti.jpg)
 
-cambio Immanuel
+cambio by Immanuel
